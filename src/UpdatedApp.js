@@ -18,12 +18,7 @@ function App() {
     {
       name: 'The lion King',
       price: 'UGX17000',
-      id: '3'
-    },
-    {
-      name: 'Angel has fallen',
-      price: 'UGX15000',
-      id: '4'
+      id: '2'
     }
   ])
 
